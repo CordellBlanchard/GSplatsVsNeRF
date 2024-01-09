@@ -25,4 +25,4 @@ This repository presents a comparative analysis of 3D Gaussian Splatting and Ins
 
 ## Results
 
-Detailed results and analysis can be found in the project report pdf.
+Detailed results and analysis can be found in the project report pdf in the files section.
